@@ -1,32 +1,27 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software is a simple task manager designed to make everyday tasks easy to track. However, this application goes beyond the normal task tracker requirements by adding additional parameters that might be useful in evaluating how to tackle your busy day. For example, this program allows you to record more than just the task name, but it also allows you to record the task importance, the task status, and a brief description of the task. All of these things help in making your minute-to-minute choices easier.
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+This software was written in the Kotlin programming language, which I took on as a challenge to further my software skills. Until now, this language had been foreign to me, so my intent in writing this software was to expand my basic umbrella of knowledge to other software development applications.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+I have provided a link to a demo video here: [Software Demo Video](https://youtu.be/zKqCgOheOPY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Kotlin
+* JetBrains IntelliJ IDEA IDE
+* Oracle OpenJDK version 21
+* GitHub
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [www.programiz.com](https://www.programiz.com/kotlin-programming/variable-types)
+- [jetbrains.com (getting started with Kotlin)](https://www.jetbrains.com/help/idea/get-started-with-kotlin.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Add further error handling
+- Add basic graphical user interface
+- Add memory functionality (storing tasks long term)
